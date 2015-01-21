@@ -33,98 +33,177 @@
       "position": "Senior JavaScript Developer / Technical Lead",
       "website": "http://abrak.ir",
       "startDate": "2014-10-01",
-      "endDate": "2015-01-14",
+      "endDate": "2015-01-21",
       "summary": "Other than my responsibilities as a JavaScript developer I am the technical team lead and also the scrum master.",
       "highlights": [
         "Implemented a HTML5 API for a virtualization project called \"Cloud Desktop\"",
         "Created the iOS app of the \"Cloud Desktop\"",
         "Working on his first official ROR app."
       ]
+    },
+    {
+      "company": "ICT Research Institute of ACECR",
+      "position": "Senior JavaScript / Front-End Developer",
+      "website": "http://acecr.ir/",
+      "startDate": "2013-05-01",
+      "endDate": "2015-10-01",
+      "summary": "The first reason I got this position, was my JavaScript expertise. I had to come up with an efficient client-side solution using Ext.js, and I did.",
+      "highlights": [
+        "Developed a dynamic form builder based on AngularJS, to be used as a front-end solution to interact with BPMS rest APIs and display the BI reports.",
+        "Using NodeJS, Express and MangoDB on the first backend layer to expose the whole application."
+      ]
+    },
+    {
+      "company": "Douran Software Technologies",
+      "position": "Senior JavaScript / Front-End Developer",
+      "website": "http://douran.com/",
+      "startDate": "2011-07-01",
+      "endDate": "2013-06-01",
+      "summary": "Douran Co. develops and maintains the most sold From Designer in my home country, and I got involved in this project as a JavaScript team lead.",
+      "highlights": [
+        "Developed A client-side formula engine with a FRP (Functional reactive programming) approach.",
+        "General project management responsibilities, organizing the daily project activity plan through Team Foundation Server 2010.",
+        "Technical lead of a team, responsible for applying new features due to customer needs."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
+      "organization": "FixJS",
       "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "website": "http://fixjs.github.io",
+      "startDate": "2013-05-01",
+      "endDate": "2014-11-01",
+      "summary": "FixJS is actually a group of JavaScript developers who are interested in advocating JavaScript and web development best practices",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Teaching JavaScript to kids"
       ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
     }
   ],
   "publications": [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "name": "How does JavaScript .prototype work?",
+      "publisher": "Academia.edu",
+      "releaseDate": "2014-12-01",
+      "website": "https://www.academia.edu/9648651/How_does_JavaScript_.prototype_work",
+      "summary": "A simple read of JavaScript .prototype to clarify the concept and show how it actually works."
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Vanilla/Native/Core JavaScript",
       "level": "Master",
       "keywords": [
+        "Javascript",
+        "CoffeeScript",
         "HTML",
-        "CSS",
-        "Javascript"
+        "CSS"
       ]
     },
     {
-      "name": "Compression",
+      "name": "HTML5 APIs",
       "level": "Master",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "HTML5",
+        "Javascript",
+        "WebSocket API",
+        "Web Workers",
+        "AppCache",
+        "Shared Workers",
+        "IndexedDB/localStorage"
+      ]
+    },
+    {
+      "name": "JavaScript modular coding",
+      "level": "Master",
+      "keywords": [
+        "AMD",
+        "CommonJS",
+        "ECMAScript 6 modules"
+      ]
+    },
+    {
+      "name": "CSS preprocessors",
+      "level": "Master",
+      "keywords": [
+        "LESS",
+        "SASS"
+      ]
+    } ,
+    {
+      "name": "JavaScript MVC/MV*/MVW/MVVM",
+      "level": "Master",
+      "keywords": [
+        "AngularJS",
+        "BackboneJS",
+        "KnockoutJS",
+        "EmberJS",
+        "Kendo MVC"
+      ]
+    },
+    {
+      "name": "JavaScript libraries/frameworks",
+      "level": "Master",
+      "keywords": [
+        "jQuery",
+        "Zepto",
+        "Dojo",
+        "Prototype"
+      ]
+    },
+    {
+      "name": "Automating front end workflows",
+      "level": "Master",
+      "keywords": [
+        "NPM",
+        "Grunt",
+        "Gulp",
+        "Bower",
+        "Yeoman"
+      ]
+    },
+    {
+      "name": "Test driven BDD/TDD",
+      "level": "Master",
+      "keywords": [
+        "Karma",
+        "Mocha",
+        "Jasmine",
+        "QUnit"
       ]
     }
   ],
   "languages": [
     {
+      "language": "Persian",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Turkish",
+      "fluency": "Professional working proficiency"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Philosophy",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Philosophy of mathematics",
+        "Social philosophy"
+      ],
+      "name": "Climbing Mountains",
+      "keywords": [
+        "Rock Climbing",
+        "Ice climbing"
+      ],
+      "name": "Playing music",
+      "keywords": [
+        "Harmonica player",
+        "Blues"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ]
 }
